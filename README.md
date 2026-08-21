@@ -142,6 +142,6 @@ Future versions of this project could include:
 
 ## 👩‍💻 Author
 
-Hifza Abid
+### Hifza Abid
 
 Computer Science Student | Data Science & Machine Learning Learner
