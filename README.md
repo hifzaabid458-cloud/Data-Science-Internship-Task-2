@@ -1,4 +1,4 @@
-# Stock Market Price Prediction
+# Data-Science-Internship-Task-2 Stock Market Price Prediction
 
 ## 📌 Project Overview
 
